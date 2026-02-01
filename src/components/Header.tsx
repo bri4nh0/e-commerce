@@ -33,9 +33,9 @@ const Header = ({
 
   return (
     <>
-        <header>
-            <div className='max-w-7xl mx-auto flex items-center justify-between px-4 sm:px-6 lg:px-8'>
-                <Link href={brandHref}>{brand}</Link>
+        <header className='bg-white/80 w-full border-b border-gray-200 backdrop-blur-sm sticky top-0 z-50'>
+            <div className='max-w-7xl mx-auto h-16 flex items-center justify-between px-4 sm:px-6 lg:px-8'>
+                <Link href={brandHref} className='text-xl font-bold text-gray-900'>{brand}</Link>
             </div>
         </header>
     </>
