@@ -2,7 +2,7 @@
 import React, {ReactNode, useState} from 'react';
 import Link from 'next/link';
 import { FiMenu, FiShoppingCart, FiX } from 'react-icons/fi';
-import CartSidebar from '@/components/CartSIdebar';
+import CartSidebar from '@/components/CartSidebar';
 
 
 
