@@ -5,3 +5,4 @@ Planned features:
 - Database to store products
 - Customer service chat
 - Store credit tracker
+- Different payment options 
