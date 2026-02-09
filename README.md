@@ -1,4 +1,4 @@
-E commerce project
+# E commerce project
 
 Planned features:
 - Map store locator
