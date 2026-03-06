@@ -1,6 +1,6 @@
 # E commerce project
 
-Planned features:
+Future features:
 - Map store locator
 - Database to store products
 - Customer service chat
